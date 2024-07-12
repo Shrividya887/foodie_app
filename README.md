@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Foodie app aims to revolutionize dining experiences by providing users with a comprehensive platform to discover, explore, and order from nearby restaurants based on their preferred cuisine. With a user-friendly interface, the app allows users to effortlessly search for restaurants in their vicinity, browse menus, read reviews, and place orders directly through the app. Whether craving Italian, Japanese, or Mexican cuisine, users can tailor their searches to find the perfect dining option that suits their tastes and preferences. By integrating real-time updates on restaurant availability, menu changes, and special offers, the app ensures users stay informed and empowered to make informed dining decisions. Ultimately, your foodie app seeks to enhance convenience, satisfaction, and enjoyment for food enthusiasts everywhere.
+
 
 ## Available Scripts
 
